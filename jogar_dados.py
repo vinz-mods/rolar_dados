@@ -21,4 +21,5 @@ while True:
         break
     
     else:
+
         print("Mensagem inválida, tente novamente")
