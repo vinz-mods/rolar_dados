@@ -22,4 +22,4 @@ while True:
     
     else:
 
-        print("tente novamente")
+        print("Mensagem inválida, tente novamente")
